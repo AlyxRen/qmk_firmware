@@ -15,6 +15,8 @@ RGB_MATRIX_ENABLE = yes
 EEPROM_DRIVER = wear_leveling
 WEAR_LEVELING_DRIVER = embedded_flash
 
+CAPS_WORD_ENABLE = yes
+
 # custom matrix setup
 CUSTOM_MATRIX = lite
 
