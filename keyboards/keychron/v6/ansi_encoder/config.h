@@ -42,5 +42,10 @@
 /* Enable caps-lock LED*/
 #define CAPS_LOCK_LED_INDEX 61
 
+
+/* Consider: */
+// https://docs.qmk.fm/#/feature_leader_key
+// https://docs.qmk.fm/#/feature_layers?id=switching-and-toggling-layers
+
 /* Enable NUM_LOCK_LED_INDEX */
 // #define NUM_LOCK_LED_INDEX 37
